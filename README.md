@@ -8,4 +8,4 @@ Python libraries/tools: Pandas, Statsmodel (tsa models), matplotlib, pmdarima
 Dataset was taken from here: https://catalog.data.gov/dataset/monthly-energy-consumption-by-sector
 
 
-![alt tag](https://github.com/andrewliew86/KOL-mapping-with-Shiny-app/blob/main/UI_picture.PNG)
+![alt tag](https://github.com/andrewliew86/Time-series-analysis-of-US-energy-usage/blob/master/Forecast_time%20series.PNG)
