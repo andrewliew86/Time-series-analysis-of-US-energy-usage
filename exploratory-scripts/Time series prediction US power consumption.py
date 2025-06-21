@@ -9,7 +9,7 @@ from math import sqrt
 from sklearn.metrics import mean_squared_error
 from pmdarima.arima import auto_arima
 
-df = pd.read_excel('Energy_consumption_US_data.xlsx', parse_dates=['Date'], index_col='Date')
+df = pd.read_excel('data-raw/Energy_consumption_US_data.xlsx', parse_dates=['Date'], index_col='Date')
 
 
 df_residential = df[['Residential']]
